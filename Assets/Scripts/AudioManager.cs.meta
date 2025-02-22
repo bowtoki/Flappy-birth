@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 07d5a9db8140ea6439e8d4116faa358a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioSource: {instanceID: 0}
+  - hitBird: {fileID: 8300000, guid: 28627207db706c047b7a235646cc959e, type: 3}
+  - birdFlap: {instanceID: 0}
+  - birdDie: {fileID: 8300000, guid: 63a1345576a05864e8efb21df4dac545, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
